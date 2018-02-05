@@ -1,0 +1,10 @@
+c:\Users\Dymyll\Documents\CIDM_4390\Assignment2\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+c:\Users\Dymyll\Documents\CIDM_4390\Assignment2\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+c:\Users\Dymyll\Documents\CIDM_4390\Assignment2\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+c:\Users\Dymyll\Documents\CIDM_4390\Assignment2\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+c:\Users\Dymyll\Documents\CIDM_4390\Assignment2\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+c:\Users\Dymyll\Documents\CIDM_4390\Assignment2\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+c:\Users\Dymyll\Documents\CIDM_4390\Assignment2\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+c:\Users\Dymyll\Documents\CIDM_4390\Assignment2\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+c:\Users\Dymyll\Documents\CIDM_4390\Assignment2\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+c:\Users\Dymyll\Documents\CIDM_4390\Assignment2\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
